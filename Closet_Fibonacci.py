@@ -1,4 +1,4 @@
-""" Print closet fibonacci number """
+""" find a given number is fibonacci or else print Closest Fibonacci Number """
 
 def fibbo(number):
     num1 = 0
